@@ -40,7 +40,7 @@ The CEH Practical Guide is a comprehensive guide to ethical hacking and penetrat
 ## Practical Modules
 
 
-## [Module 01 - Introduction to Ethical Hacking](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 01 - Introduction to Ethical Hacking")
+## [Module 01 - Introduction to Ethical Hacking](https://github.com/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 01 - Introduction to Ethical Hacking")
 ## [Module 02 - Footprinting and Reconnaissance](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 02 - Footprinting and Reconnaissance")
 ## [Module 03 - Scanning Networks](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 03 - Scanning Networks")
 ## [Module 04 - Enumeration](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 04 - Enumeration")
