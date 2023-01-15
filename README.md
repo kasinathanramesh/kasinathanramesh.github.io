@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/82864174/212504619-30b7dfbf-01cc-4e33-abe6-3c12eb33ec7d.png)
 
-# CEH V11 PRACTICAL EXAM NOTES
+<h1 align="center">CEH V11 PRACTICAL EXAM NOTES</h1>
 
 ## Index
 
