@@ -40,25 +40,24 @@ The CEH Practical Guide is a comprehensive guide to ethical hacking and penetrat
 ## Practical Modules
 
 
-- [Module 01 - Introduction to Ethical Hacking](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 01 - Introduction to Ethical Hacking")
+## [Module 01 - Introduction to Ethical Hacking](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 01 - Introduction to Ethical Hacking")
+## [Module 02 - Footprinting and Reconnaissance](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 02 - Footprinting and Reconnaissance")
+## [Module 03 - Scanning Networks](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 03 - Scanning Networks")
+## [Module 04 - Enumeration](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 04 - Enumeration")
+## [Module 05 - Vulnerability Analysis](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 05 - Vulnerability Analysis")
+## [Module 06 - System Hacking](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 06 - System Hacking")
+## [Module 07 - Malware Threats](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 07 - Malware Threats")
+## [Module 08 - Sniffing](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 08 - Sniffing")
+## [Module 09 - Social Engineering](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 09 - Social Engineering")
+## [Module 10 - Denial of Service](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 10 - Denial of Service")
+## [Module 11 - Session Hijacking](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 11 - Session Hijacking")
+## [Module 12 - Evading IDS, Firewalls, and Honeypots](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 12 - Evading IDS, Firewalls, and Honeypots")
+## [Module 13 - Hacking Web Servers](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 13 - Hacking Web Servers")
+## [Module 14 - Hacking Web Applications](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 14 - Hacking Web Applications")
+## [Module 15 - SQL Injection](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 15 - SQL Injection")
+## [Module 16 - Hacking Wireless Networks](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 16 - Hacking Wireless Networks")
+## [Module 17 - Hacking Mobile Platforms](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 17 - Hacking Mobile Platforms")
+## [Module 18 - Hacking IoT and OT Hacking](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 18 - Hacking IoT and OT Hacking")
+## [Module 19 - Cloud Computing](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 19 - Cloud Computing")
+## [Module 20 - Cryptography](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 20 - Cryptography")
 
-### Module 01 - Introduction to Ethical Hacking
-### Module 02 - Footprinting and Reconnaissance
-### Module 03 - Scanning Networks
-### Module 04 - Enumeration
-### Module 05 - Vulnerability Analysis
-### Module 06 - System Hacking
-### Module 07 - Malware Threats
-### Module 08 - Sniffing
-### Module 09 - Social Engineering
-### Module 10 - Denial of Service
-### Module 11 - Session Hijacking
-### Module 12 - Evading IDS, Firewalls, and Honeypots
-### Module 13 - Hacking Web Servers
-### Module 14 - Hacking Web Applications
-### Module 15 - SQL Injection
-### Module 16 - Hacking Wireless Networks
-### Module 17 - Hacking Mobile Platforms
-### Module 18 - Hacking IoT and OT Hacking
-### Module 19 - Cloud Computing
-### Module 20 - Cryptography
