@@ -1,1 +1,4 @@
 <h1 align="center">Introduction to Ethical Hacking<project-name></h1>
+  <body>
+   Ethical hacking is the practice of testing a system, network or application to identify potential security vulnerabilities that an attacker could exploit. Ethical hackers are security professionals who use their knowledge of hacking techniques to identify vulnerabilities and help organizations secure their systems and data. They use the same tools and techniques as malicious hackers but with permission from the organization and for the purpose of improving the security of the system. Ethical hackers also provide advice on how to prevent, detect and respond to malicious hacking attempts.
+  </body>
