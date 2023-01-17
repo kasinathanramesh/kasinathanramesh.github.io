@@ -1,1 +1,1 @@
-<h1 align="center">Introduction to Ethical Hacking<project-name></h1>
+<h1 align="center">Session Hijacking<project-name></h1>
