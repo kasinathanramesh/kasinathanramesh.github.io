@@ -21,9 +21,9 @@ The CEH Practical Guide is a comprehensive guide to ethical hacking and penetrat
 ## Practical Modules
 
 
-#### [Module 01 - Introduction to Ethical Hacking](https://github.com/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 01 - Introduction to Ethical Hacking")
-#### [Module 02 - Footprinting and Reconnaissance](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 02 - Footprinting and Reconnaissance")
-#### [Module 03 - Scanning Networks](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 03 - Scanning Networks")
+#### [Module 01 - Introduction to Ethical Hacking](https://github.com/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/Module%2001%20-%20Introduction%20to%20Ethical%20Hacking.md "<project-name> Module 01 - Introduction to Ethical Hacking")
+#### [Module 02 - Footprinting and Reconnaissance](https://github.com/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/Module%2002%20-%20Footprinting%20and%20Reconnaissance.md "<project-name> Module 02 - Footprinting and Reconnaissance")
+#### [Module 03 - Scanning Networks](https://github.com/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/Module%2003%20-%20Scanning%20Networks.md "<project-name> Module 03 - Scanning Networks")
 #### [Module 04 - Enumeration](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 04 - Enumeration")
 #### [Module 05 - Vulnerability Analysis](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 05 - Vulnerability Analysis")
 #### [Module 06 - System Hacking](https://github.dev/kasinathanramesh/kasinathanramesh.github.io/blob/main/practicalmodules/module01.md "<project-name> Module 06 - System Hacking")
