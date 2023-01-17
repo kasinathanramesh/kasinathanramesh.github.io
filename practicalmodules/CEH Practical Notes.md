@@ -145,3 +145,4 @@ use SET tools on kali
 
 https://github.com/CyberSecurityUP/Guide-CEH-Practical-Master
 https://anontuttuvenus.medium.com/ceh-practical-exam-review-185ea4cef82a
+https://notes.abdarafi.net/
